@@ -4,7 +4,7 @@ Neste respositório aprendeirei a utilizar os comando básico do github, assim c
 ## comandos básicos utilizando no git
 ### Repositório remoto
 - **git commit -m "inicaciação do repositório com o arquivo leia-me"** 
-  - Inicia o na nuvem
+  - Inicia o repositório na nuvem
 - **git remote add origin https://github.com/daniel64054/aprendendoGITSenai.git**
   - Direciona o repositório para o link github
 - **git push -u main** 
