@@ -14,7 +14,7 @@ Neste respositório aprendeirei a utilizar os comando básico do github, assim c
 - **git init**
   - Inicia o repositório
 - **git add**
-  - Adiciona o repositório
+  - Adiciona a modificações repositório
 - item 3
 
 ### Branchs
